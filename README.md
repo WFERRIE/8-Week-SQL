@@ -1,1 +1,3 @@
 # 8-Week-SQL
+
+This repo contains my solutions to the [8 week SQL challenge](https://8weeksqlchallenge.com/), which I am doing just to keep up with my SQL skills. This "challenge" is a set of 8 case studies, each with its own database and set of questions to be answered using only SQL. For this I am using PostgreSQL as I already have experience with MySQL, and wanted to try something new. The repo is organized into 8 different markdown files (9 if you count this README), each with solutions to the questions and associated queries. The queries can be run using the db-fiddle links on the 8 Week SQL Challenge website.
